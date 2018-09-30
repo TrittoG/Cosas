@@ -1,0 +1,6 @@
+C:\Users\Giuli\source\repos\SistemaContable\Clases\bin\Debug\Clases.dll
+C:\Users\Giuli\source\repos\SistemaContable\Clases\bin\Debug\Clases.pdb
+C:\Users\Giuli\source\repos\SistemaContable\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Giuli\source\repos\SistemaContable\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\source\repos\SistemaContable\Clases\obj\Debug\Clases.dll
+C:\Users\Giuli\source\repos\SistemaContable\Clases\obj\Debug\Clases.pdb

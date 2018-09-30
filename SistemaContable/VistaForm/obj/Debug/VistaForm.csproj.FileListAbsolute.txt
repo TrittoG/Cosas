@@ -1,0 +1,13 @@
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\bin\Debug\Clases.dll
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\bin\Debug\Clases.pdb
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\obj\Debug\VistaForm.Form1.resources
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Giuli\source\repos\SistemaContable\VistaForm\obj\Debug\VistaForm.pdb
